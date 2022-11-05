@@ -23,11 +23,19 @@ além de dados do site True Achievements e do agregador de notas Metacritic.
 ## Conteúdo dos notebooks
 
 Web Scraping Xbox 360 Wikipedia: código para obtenção dos dados quanto a biblioteca de jogos do Xbox 360.
+
 Web Scraping Xbox One Wikipedia: código para obtenção dos dados quanto a biblioteca de jogos do Xbox One.
+
 Web Scraping Xbox Series Wikipedia: código para obtenção dos dados quanto a biblioteca de jogos do Xbox Series.
+
 Web Scraping Xbox 360 Metacritic: código para obtenção dos dados do agregador quanto aos jogos de Xbox 360.
+
 Web Scraping Xbox One Metacritic: código para obtenção dos dados do agregador quanto aos jogos de Xbox One.
+
 Web Scraping Xbox Series Metacritic: código para obtenção dos dados do agregador quanto aos jogos de Xbox Series.
+
 Concat Xbox Games: concatenação dos dados referentes a biblioteca de jogos da plataforma.
+
 Concat Xbox Games Metacritic: concatenação dos dados referentes a biblioteca de jogos da plataforma no Metacritic.
+
 Merge Infos Xbox Game Pass: agrega os dados obtigos nos códigos anteriores.
