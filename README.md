@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: DATA XBOX GAME PASS</h1>
+<h1 align="center">:file_cabinet: DATA XBOX GAMEPASS</h1>
 
 ## :memo: Descrição
 Data Xbox Game Pass busca agregar dados relacionados ao conteúdo disponível no serviço de jogos da Microsoft, o Xbox Game Pass. 
